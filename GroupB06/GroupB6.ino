@@ -1,4 +1,9 @@
+6. Create a program that illuminates the green LED if the counter is less than 100, illuminates the
+yellow LED if the counter is between 101 and 200 and illuminates the red LED if the counter is
+greater than 200.
 
+  
+  
 const int green_led  = 0;
 const int yellow_led = 1;
 const int red_led    = 2;
