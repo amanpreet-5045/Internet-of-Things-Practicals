@@ -1,3 +1,6 @@
+/*10. Write a program read the temperature sensor and send the values to the serial monitor on the
+computer.*/
+
 #include <SimpleDHT.h>
 
 int pinDHT11 = A1;
