@@ -1,3 +1,7 @@
+/*9. Write a program to control the color of the LED by turning 3 different potentiometers. One will be
+read for the value of Red, one for the value of Green, and one for the value of Blue.*/
+
+
 int red_light_pin= 5;
 int green_light_pin = 6;
 int blue_light_pin = 3;
