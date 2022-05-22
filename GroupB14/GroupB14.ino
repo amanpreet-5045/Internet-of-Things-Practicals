@@ -1,3 +1,5 @@
+// IR Sensor.
+
 void setup() {
   // put your setup code here, to run once:
 pinMode(4,OUTPUT);
