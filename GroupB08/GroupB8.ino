@@ -1,3 +1,5 @@
+//8. Write a program that asks the user for a number and outputs the number squared that is entered.
+
 
 void setup() {
   // put your setup code here, to run once:
