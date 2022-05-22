@@ -1,4 +1,8 @@
-
+/*7. Create a program so that when the user enters ‘b’ the green light blinks, ‘g’ the green light is
+illuminated ‘y’ the yellow light is illuminated and ‘r’ the red light is illuminated.*/
+  
+  
+  
 const int green_led  = 0;
 const int red_led    = 1;
 const int yellow_led = 2;
